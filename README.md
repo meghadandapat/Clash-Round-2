@@ -40,7 +40,7 @@ Note: before running the above command, head over to userApp/views.py and set th
 </p>
 </details>
 
-## A Glimpse of the User Interface:
+## User Interface of the platform:
 #### 1) Login Page -
 ![Login Page](./screenshots/login.png)
 
