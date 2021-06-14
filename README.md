@@ -1,10 +1,12 @@
 # CLASH ROUND 2 ONLINE JUDGE:
-<p> This platform was developed & deployed successfully for hosting Clash- An event part of the annual techfest Credenz under the PICT IEEE Stident Branch (PISB).</p>
+<p> This platform was developed & deployed successfully for hosting Clash- the flagship event of Credenz organised by PISB.</p>
 <p>
 
 So, here is a quick guide for setup on your PC and host run this platform locally.
 
-### 1) Clone the project onto your local Machine (from the fullnfinal branch).
+### 1) Clone the branch named fullnfinal.
+	
+	git clone -b fullnfinal https://github.com/meghadandapat/Clash-Round-2.git
 
 ### 2) Create a virtual environment and install the required packages.
 
@@ -47,20 +49,20 @@ Note: before running the above command, head over to userApp/views.py and set th
 ### 2) Instructions Page -
 ![Instructions Page](./screenshots/instructions.png)
 
-### 3) Coding Page -
-![codingpage.png](./screenshots/codingpage.png)
-
-### 4) LeaderBoard -
-![leaderboard.png](./screenshots/leaderboard.png)
-
-### 5) Question Page -
+### 3) Question Page -
 ![questionhub.png](./screenshots/questionhub.png)
 
-### 6) Results Page -
-![resultpage.png](./screenshots/resultpage.png)
+### 4) Coding Page -
+![codingpage.png](./screenshots/codingpage.png)
 
-### 7) Submissions Page -
+### 5) Testcase Evaluation Page -
+![testcases.png](./screenshots/testcases.png)
+
+### 6) Submissions Page -
 ![submissions.png](./screenshots/submissions.png)
 
-### 8) Testcase Evaluation Page -
-![testcases.png](./screenshots/testcases.png)
+### 7) LeaderBoard -
+![leaderboard.png](./screenshots/leaderboard.png)
+
+### 8) Results Page -
+![resultpage.png](./screenshots/resultpage.png)
